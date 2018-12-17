@@ -1,0 +1,48 @@
+#header{
+	background-color: #1276e5;
+}
+.chat-bottom .special{
+	background-color: #1276e5 !important;
+}
+.medium{
+	background-color:#1276e5;
+}
+.little-content-head{
+	background-color:#1276e5;
+}
+.little-content .lit-chat{
+	border-left: 3px solid #1276e5;
+	border-right: 3px solid #1276e5;
+	border-bottom: 3px solid #1276e5;
+}
+.little-content .bot-chat{
+	border-left: 3px solid #1276e5;
+	border-right: 3px solid #1276e5;
+	border-bottom: 3px solid #1276e5;
+}
+.bot-chat button{
+	background-color: #1276e5;
+}
+.service{
+	background-color: #1276e5;
+}
+.white-box h1{
+	color:#1276e5;
+}
+.white-box h2{
+	color:#1276e5;
+}
+.white-box h3{
+	color:#1276e5;
+}
+.submitBtn{
+	background-color: #1276e5;
+}
+/*调查问卷弹框*/
+.diaHeader span {
+	color: #1276e5;
+}
+.dialogWrap{border:1px solid #a4cc7b;}
+.submitBtnWrap .submitBtn{
+	background-color: #5CA114;
+}
